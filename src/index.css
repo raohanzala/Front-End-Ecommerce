@@ -16,3 +16,7 @@ a.active hr{
     color: white;
   }
 }
+
+.swiper-button-prev:after, .swiper-button-next:after {
+  font-size: 28px !important; 
+}
